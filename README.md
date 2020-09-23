@@ -1,4 +1,4 @@
-# Manga extractor
+# Manga scraper
 
 The scripts in this repository can be used to download en-masse mangas hosted at [mangastream.xyz](http://mangastream.xyz).
 
